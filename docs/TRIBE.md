@@ -106,5 +106,5 @@ plugin and starting a task on one node we demonstrate that the plugins and
 tasks are now running on all of the other nodes in the agreement.        
 
 
-*Loading plugins and starting a task on a node participating in an agreement
+*Loading plugins and starting a task on a node participating in an agreement*
 ![tribe-load-start](http://i.giphy.com/3o8doZ9e9MX6ZOH4Iw.gif)
